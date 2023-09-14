@@ -42,7 +42,7 @@ int main()
      printf("donnez moi un nombre");
 
    scanf("%d",&x);
-    printf("\ndonnez moi un nombre");
+    printf("\ndonnez moi un autre nombre");
 
    scanf("%d",&y);
 
